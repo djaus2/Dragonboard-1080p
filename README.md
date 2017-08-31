@@ -19,6 +19,7 @@ For detailed information that you can add, aim to get it in the Wiki.
 Thanks
 
 ## Links
+*You have to registered with Qualcomm to get some of this material)*
 [About The DragonBoard](https://developer.qualcomm.com/hardware/dragonboard-410c)  
 [DragonBoard  OS Binary](http://go.microsoft.com/fwlink/?LinkID=708576)  
 [The BSP](https://developer.qualcomm.com/download/db410c/windows-10-iot-core-bsp.zip)  
