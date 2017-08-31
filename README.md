@@ -16,8 +16,8 @@ For detailed information that you can add, aim to get it in the Wiki.
 Thanks
 
 ## Links
-[About The DragonBoard](https://developer.qualcomm.com/hardware/dragonboard-410c)  )
-[DragonBoard  OS Binary](http://go.microsoft.com/fwlink/?LinkID=708576
+[About The DragonBoard](https://developer.qualcomm.com/hardware/dragonboard-410c)  
+[DragonBoard  OS Binary](http://go.microsoft.com/fwlink/?LinkID=708576)  
 [The BSP](https://developer.qualcomm.com/download/db410c/windows-10-iot-core-bsp.zip)  
 [DragonBoard BSP Customisation Guide](https://developer.qualcomm.com/download/db410c/windows-10-iot-bsp-customization-guide.pdf)  
 [DragonBoard Update Tool x86](https://developer.qualcomm.com/download/db410c/windows-10-iot-update-tool-dragonboard-410c-x86.zip)  
