@@ -16,10 +16,10 @@ For detailed information that you can add, aim to get it in the Wiki.
 Thanks
 
 ## Links
-[The DragonBoard](https://developer.qualcomm.com/hardware/dragonboard-410c)  
-[The OS Binary](https://developer.qualcomm.com/download/db410c/windows-10-iot-core-bsp.zip)  
-https://developer.qualcomm.com/download/db410c/windows-10-iot-bsp-customization-guide.pdf
-https://developer.qualcomm.com/download/db410c/windows-10-iot-update-tool-dragonboard-410c-x86.zip
-https://developer.qualcomm.com/download/db410c/windows-10-iot-update-tool-dragonboard-410c-x64.zip
-https://developer.microsoft.com/en-us/windows/iot/Docs/GetStarted/dragonboard/stable/GetStartedStep1.htm
+[About The DragonBoard](https://developer.qualcomm.com/hardware/dragonboard-410c)  
+[DragonBoard  OS Binary](https://developer.qualcomm.com/download/db410c/windows-10-iot-core-bsp.zip)  
+[DragonBoard BSP Customisation Guide](https://developer.qualcomm.com/download/db410c/windows-10-iot-bsp-customization-guide.pdf)  
+[DragonBoard Update Tool x86](https://developer.qualcomm.com/download/db410c/windows-10-iot-update-tool-dragonboard-410c-x86.zip)  
+[DragonBoard Update Tool x64](https://developer.qualcomm.com/download/db410c/windows-10-iot-update-tool-dragonboard-410c-x64.zip)  
+[DragonBoard Getting Started](https://developer.microsoft.com/en-us/windows/iot/Docs/GetStarted/dragonboard/stable/GetStartedStep1.htm)  
 
