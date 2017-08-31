@@ -21,5 +21,6 @@ Thanks
 [DragonBoard BSP Customisation Guide](https://developer.qualcomm.com/download/db410c/windows-10-iot-bsp-customization-guide.pdf)  
 [DragonBoard Update Tool x86](https://developer.qualcomm.com/download/db410c/windows-10-iot-update-tool-dragonboard-410c-x86.zip)  
 [DragonBoard Update Tool x64](https://developer.qualcomm.com/download/db410c/windows-10-iot-update-tool-dragonboard-410c-x64.zip)  
-[DragonBoard Getting Started](https://developer.microsoft.com/en-us/windows/iot/Docs/GetStarted/dragonboard/stable/GetStartedStep1.htm)  
+[DragonBoard Getting Started](https://developer.microsoft.com/en-us/windows/iot/Docs/GetStarted/dragonboard/stable/GetStartedStep1.htm) 
+[Download and install Windows 10 IoT Core Dashboard]()
 
