@@ -6,7 +6,7 @@ Enable a Qualcomm DragonBoard 410c to use 1920x1080 instead of 1280x720 as displ
 
 The **Qualcomm DragonBoard 410c** Windows 10 IoI-Core image only supports 1280x720 screen resolution. It has been noted that is possible to modify the BSP so as to support the higher resolution 1080p. Whist it might be a simple as making some modification to the OS as distributed, or to run an app, it seems that a rebuild of the BSP is required. Whether this can be done in a public manner (you have to be registered to get tyeh BSP source) remains to be seen.
 
---How to Contribute--
+##How to Contribute##
 Please contribute discussion points as Issues.  
 To upload code to the repository please request to added to the project's contributors.  
 Sure Fork Off and then Pull Request as well.
